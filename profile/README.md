@@ -1,4 +1,4 @@
-# Neuracare: Personalized Healthcare Platform
+![Neuracare: Personalized Healthcare Platform](banner.jpg)
 
 Welcome to Neuracare, a comprehensive healthcare platform designed to provide personalized caregiving services and support for individuals in need. This project comprises two main components: a caregiver console and an iOS app for patients. Neuracare leverages cutting-edge technologies to enhance patient care and well-being.
 
