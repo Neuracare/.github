@@ -33,7 +33,7 @@ The iOS app is designed to empower patients by providing them with essential rem
 - **Journaling and Task Tracking**: The app incorporates a unique Text-to-Speech (TTS) functionality, allowing patients to verbally document their day. The app intelligently organizes this information into tasks, journal entries, and memories.
 
 ## Technologies Used
-
+![tech_stack](tech_stack.png)
 - **Frontend:**
   - React and Remix for the caregiver console.
   - Swift for the iOS app.
